@@ -1,0 +1,44 @@
+.contenedor{
+    width: 500px;
+    height: 30px;
+    background-color: rgb(224, 220, 220);
+    border-radius: 100px;
+    margin: 10px;
+    padding: 3px;
+}
+
+.barra1{
+    background-color: rgba(49, 212, 49, 0.879);
+    width: 50px; 
+    height: 30px ;
+    border-radius: 100px;
+}
+
+.barra2{
+    background-color: rgba(49, 212, 49, 0.879);
+    width: 125px; 
+    height: 30px ;
+    border-radius: 100px;
+}
+
+.barra3{
+    background-color:rgba(49, 212, 49, 0.879);
+    width: 250px; 
+    height: 30px ;
+    border-radius: 100px;
+}
+
+.barra4{
+    background-color: rgba(49, 212, 49, 0.879);
+    width: 375px; 
+    height: 30px ;
+    border-radius: 100px;
+}
+
+.barra5{
+    background-color:rgba(49, 212, 49, 0.879);
+    width: 450px; 
+    height: 30px ;
+    border-radius: 100px;
+}
+
